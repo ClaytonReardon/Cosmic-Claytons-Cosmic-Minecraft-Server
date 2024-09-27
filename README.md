@@ -71,25 +71,39 @@
 
 ### MultiMC Installation Guide
 1. Go to download link and download the version for your OS, probably Windows 
+
 ![downloadLink](img/downloadLink.png)
+
 2. Once downloaded, if you open file explorer and go to your *Downloads* folder, you'll see the zip file
+
 ![downloadedZip](img/downloadedZip.png)
+
 3. Double-click the zip file, and you will see another folder called *MultiMC*
 4. Right-click and copy this file
+
 ![extractingZip](img/extractingZip.png)
+
 4. Navigate to your *Documents* folder
 5. Right click, and create a new folder called *Games* (if you don't already have one)
+
 ![createNewFolder](img/createNewFolder.png)
+
 6. Enter the *Games* folder, right-click and *Paste* the *MultiMC* folder
+
 ![Paste](img/Paste.png)
 7. Then double-click the MultiMC folder to enter it
 8. Scroll down until you see the *MultiMC.exe* file
 9. Right click this and select *Create shortcut*
+
 ![createShortcut](img/createShortcut.png)
+
 10. Once the shortcut is created, drag it to your *Desktop* folder
     - you can also directly drag it onto your desktop
+
 ![dragToDesktop](img/dragtoDesktop.png)
+
 11. Once it's on your desktop, you can right-click to rename it
+
 ![Rename](img/Rename.png)
 
 #### MultiMC Setup
@@ -98,17 +112,20 @@ When you first launch MultiMC, there's a brief setup step. The first is to choos
 However, if no version of Java is detected, you can download the Java 17 JRE [from here](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=17). Download the .msi version
 
 When installing, you can leave everything as default, *except* make sure to change the options *Set or override JAVA_HOME variable* and *JavaSoft (Oracle) registry keys* to *install on local hard drive*
+
 ![javaInstall](img/javaInstall.png)
 
 Now, when you run MultiMC setup, it *should* autodetect your Java install.
 
 *If it doesn't*, click the *Browse* button and navigate to ***This PC>Local Disk>Program Files>Eclipse Adoptium>jre-17.0.12.7-hotspot>bin*** and select the ***javaw.exe*** file
+
 ![javaPath](img/javaPath.png)
 
 **Maximum Memory Allocation** - This is a setting that's in the vanilla launcher but it kind of hides it from you. This is maybe the single best thing to improve performance. This is the amount of RAM that Java is allowed to use when running. So if you have some beefy system with 64gb of RAM but only allow Java to use the default 2gb, you're wasting performance.
 
 I would reccomend setting your *Maximum Memory Allocation* 4-8GB lower than however much RAM your system has
     - You can find your system RAM by opening Windows Settings, clicking on *System*, and then go all the way down to *About*
+    
     ![systemRam](img/systemRam.png)
     - 8gb RAM, allocate 4gb. Type in *4000* into *Maximum Memory Allocation*
     - 16gb RAM, allocate 10gb. Type in *10000* into *Maximum Memory Allocation*
@@ -119,22 +136,36 @@ Almost there bitch
 
 0. Make sure you download the [modpack](https://claytonreardon.github.io/Minecraft-Site/CosmicClayton'sCosmicModpack.zip)
 1. Once in MultiMC, click the *Add Instance* button in the top left
+
 ![addInstance](img/addInstance.png)
+
 2. Select the *Import from zip* option, and then click *Browse*
+
 ![importZip](img/importZip.png)
+
 3. Browse to your *Downloads* folder and select *CosmicClayton'sCosmicModpack.zip*, then click *Open*
+
 ![modpackImport](img/modpackImport.png)
+
 4. Rename the Instance whatever you like and hit *OK*
 5. A new instance will be created and all the mods will be automatically downloaded and installed
 6. After that just click *Launch*
+
 ![launch](img/launch.png)
+
 7. The first time you launch an instance, you'll be prompted to sign in to your Minecraft/Microsoft account. Select *Yes* to the option to open the account manager
 8. Select *Add Microsoft*
+
 ![addAccount](img/addAccount.png)
+
 9. Copy the code given, and click on the link
+
 ![accountCode](img/accountCode.img)
+
 10. Once your browser opens up, input the code
+
 ![inputCode](img/inputCode.png)
+
 11. Sign in to your Microsoft account
 
 <script>
