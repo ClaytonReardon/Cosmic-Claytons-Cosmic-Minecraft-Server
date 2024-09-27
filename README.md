@@ -124,12 +124,12 @@ Now, when you run MultiMC setup, it *should* autodetect your Java install.
 **Maximum Memory Allocation** - This is a setting that's in the vanilla launcher but it kind of hides it from you. This is maybe the single best thing to improve performance. This is the amount of RAM that Java is allowed to use when running. So if you have some beefy system with 64gb of RAM but only allow Java to use the default 2gb, you're wasting performance.
 
 I would reccomend setting your *Maximum Memory Allocation* 4-8GB lower than however much RAM your system has
-    - You can find your system RAM by opening Windows Settings, clicking on *System*, and then go all the way down to *About*
+- You can find your system RAM by opening Windows Settings, clicking on *System*, and then go all the way down to *About*
     
-    ![systemRam](img/systemRam.png)
-    - 8gb RAM, allocate 4gb. Type in *4000* into *Maximum Memory Allocation*
-    - 16gb RAM, allocate 10gb. Type in *10000* into *Maximum Memory Allocation*
-    - 32gb RAM, allocate 24gb. Type in *24000* into *Maximum Memory Allocation*
+![systemRam](img/systemRam.png)
+- 8gb RAM, allocate 4gb. Type in *4000* into *Maximum Memory Allocation*
+- 16gb RAM, allocate 10gb. Type in *10000* into *Maximum Memory Allocation*
+- 32gb RAM, allocate 24gb. Type in *24000* into *Maximum Memory Allocation*
 
 ### Installing Modpack in MultiMC Guide
 Almost there bitch
