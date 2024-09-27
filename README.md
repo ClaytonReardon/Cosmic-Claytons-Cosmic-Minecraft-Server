@@ -125,8 +125,9 @@ Now, when you run MultiMC setup, it *should* autodetect your Java install.
 
 I would reccomend setting your *Maximum Memory Allocation* 4-8GB lower than however much RAM your system has
 - You can find your system RAM by opening Windows Settings, clicking on *System*, and then go all the way down to *About*
-    
+
 ![systemRam](img/systemRam.png)
+
 - 8gb RAM, allocate 4gb. Type in *4000* into *Maximum Memory Allocation*
 - 16gb RAM, allocate 10gb. Type in *10000* into *Maximum Memory Allocation*
 - 32gb RAM, allocate 24gb. Type in *24000* into *Maximum Memory Allocation*
@@ -160,7 +161,7 @@ Almost there bitch
 
 9. Copy the code given, and click on the link
 
-![accountCode](img/accountCode.img)
+![accountCode](img/accountCode.png)
 
 10. Once your browser opens up, input the code
 
