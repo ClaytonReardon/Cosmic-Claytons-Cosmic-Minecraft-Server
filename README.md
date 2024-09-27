@@ -1,7 +1,6 @@
 # Cosmic Clayton's Cosmic Minecraft Server
 
-### Server Address: <a href="#" id="copyServerAddress" onclick="copyToClipboard('art-least.gl.joinmc.link')">art-least.gl.joinmc.link</a>
-
+### **Server Address:** <a href="#" id="copyServerAddress" onclick="copyToClipboard('art-least.gl.joinmc.link')">art-least.gl.joinmc.link</a>
 
 ### [Resource Pack Download](https://vanillatweaks.net/share#7bbPXh)
 
@@ -38,21 +37,21 @@
 - [Comforts](https://modrinth.com/mod/comforts)
     - **Sleeping Bags** allow you to sleep without resetting your spawn location
     - **Hammocks** let you turn day into night, it's like the opposite of a bed
-- [Tweakaroo]()
+- [Tweakaroo](https://modrinth.com/mod/tweakeroo)
     - This is more on the deep lore side of things and you don't have to use it might never notice it's there
     - This mod does about a million and one things
     - I use it primarly for 3 things:
         1. *FastBlockPlacement* Press a hotkey and you can really rapidly and accurately place blocks
         2. *HotBarRandomizer* Press a hotky and then every time you place a block, a new item in your hotbar will be selected. Makes it really easy to place down randomized block Palettes
         3. *FreeCamera* Press a hotkey and you can move your camera (not the player) around freely. Really essential for building hyper-complicated contraptions in redstone and Create
-- [MiniHUD]()
+- [MiniHUD](https://modrinth.com/mod/minihud)
     - Another deep lore mod that does a million and a half things
     - I primarily use it for 2 things:
         1. Render spawning spheres that will show where mods will spawn around the plater.
             - Essential for figuring out AFK platform locations for mob farms
         2. Render light levels on blocks
             - Want to mod proof your base and make sure you didn't miss anyting? Redner the light level on all blocks. 
-            - *Green*, no mod spawns. *Red w yellow outline*, will only spawn mods at night. *Red*, will always spawn mods.
+            - *Green*, no mob spawns. *Red w yellow outline*, will only spawn mobs at night. *Red*, will always spawn mobs.
 
 ## Resource Pack
 *[Download Link](https://vanillatweaks.net/share#7bbPXh)*
