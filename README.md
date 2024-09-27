@@ -52,6 +52,10 @@
         2. Render light levels on blocks
             - Want to mod proof your base and make sure you didn't miss anyting? Redner the light level on all blocks. 
             - *Green*, no mob spawns. *Red w yellow outline*, will only spawn mobs at night. *Red*, will always spawn mobs.
+- Optimization Mods
+    - It basically includes everything from the [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized/version/6.1.0-beta.8) modpack
+        - Except for Controlify cuz that mod's always buggy. All that does is let you play on PC with a controller so like eh dgaf
+        - And except for FastBetterGrass because I feel like it makes grass look so ugly and it offers like negligable performance improvement so piss off
 
 ## Resource Pack
 *[Download Link](https://vanillatweaks.net/share#7bbPXh)*
@@ -66,6 +70,8 @@
 - It's also really easy to install. It's just a zip file. Extract it wherever you want and make a shortcut to MultiMC.exe and put in your desktop
 
 ### MultiMC Installation Guide
+
+### Installing Modpack in MultiMC Guide
 
 <script>
   function copyToClipboard(text) {
