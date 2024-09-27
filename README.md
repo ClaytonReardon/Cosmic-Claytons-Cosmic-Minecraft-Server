@@ -28,3 +28,15 @@ Info about the minecraft server I host for me and my friends
     - **ItemSwapper**
         - A game changer. Press the **r** key and you can hotswap to all blocks related to the one selected in your hotbar that are in your inventory ***or*** in shulker boxes.
         - It's also *really* convenient to swap to other blocks unrelated to your selected block.
+
+## Resource Pack
+- The resource pack is from [VanillaTweaks](https://vanillatweaks.net/) which is a great site that lets you customize a resource pack for yourself from a bunch of quality of life tweaks. These are most of my favorite settings without differing too much from Vanilla
+- The number one thing this does which I love is the *"UniversalLushGrass"* tweak, which makes grass greener and lusher all around. No more depressing washed out mountain grass, or gross brown savannah grass. Makes more biomes viable as base locations.
+- You can also upload this pack to the site and remove or add the tweaks I've made
+
+## MultiMC
+*[Download Link](https://multimc.org/#Download)*
+- MultiMC is an alternative Minecraft launcher. It makes it super easy to have different installations of Minecraft running different versions, with different sets of mods, resource packs and worlds. It also makes it about a million times easier to install modpacks.
+    - Installing modpacks through the vanilla launcher is a giant pain in the ass without using some cringepilled third party app like Curseforge or Modrinth where you have to make some whole account and it's just like ugh sir. And then if you want to install additional mods on top of the modpack it's also stupid and cringe and it's just like bruh why.
+- It's also really easy to install. It's just a zip file. Extract it wherever you want and make a shortcut to MultiMC.exe and put in your desktop
+### MultiMC Installation Guide
