@@ -1,14 +1,13 @@
 # Cosmic Clayton's Cosmic Minecraft Server
 
-### Server IP: 47.153.31.106:1111
+### Server Address: <a href="#" id="copyServerAddress" onclick="copyToClipboard('art-least.gl.joinmc.link')">art-least.gl.joinmc.link</a>
+
 
 ### [Resource Pack Download](https://vanillatweaks.net/share#7bbPXh)
 
 ### [Modpack Download](https://claytonreardon.github.io/Minecraft-Site/CosmicServer.mrpack)
 
 ### [Guide to MultiMC](https://claytonreardon.github.io/Minecraft-Site/MultiMCGuide.md)
-
-Info about the minecraft server I host for me and my friends
 
 ## Mods
 - These are moslty performance optimization and quality of life mods
@@ -40,3 +39,13 @@ Info about the minecraft server I host for me and my friends
     - Installing modpacks through the vanilla launcher is a giant pain in the ass without using some cringepilled third party app like Curseforge or Modrinth where you have to make some whole account and it's just like ugh sir. And then if you want to install additional mods on top of the modpack it's also stupid and cringe and it's just like bruh why.
 - It's also really easy to install. It's just a zip file. Extract it wherever you want and make a shortcut to MultiMC.exe and put in your desktop
 ### MultiMC Installation Guide
+
+<script>
+  function copyToClipboard(text) {
+    navigator.clipboard.writeText(text).then(function() {
+      alert('Copied to clipboard: ' + text);
+    }, function(err) {
+      alert('Failed to copy: ', err);
+    });
+  }
+</script>
