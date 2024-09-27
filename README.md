@@ -4,9 +4,9 @@
 
 ### [Resource Pack Download](https://vanillatweaks.net/share#7bbPXh)
 
-### [Modpack Download](https://claytonreardon.github.io/Minecraft-Site/Cosmic+Clayton's+Cosmic+Modpack.mrpack)
+### [Modpack Download](https://claytonreardon.github.io/Minecraft-Site/CosmicClayton'sCosmicModpack.zip)
 
-### [Guide to MultiMC](https://claytonreardon.github.io/Minecraft-Site/MultiMCGuide.md)
+### [Guide to MultiMC](https://claytonreardon.github.io/Minecraft-Site/#multimc)
 
 ## Mods
 - These are moslty performance optimization and quality of life mods
