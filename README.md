@@ -4,7 +4,7 @@
 
 ### [Resource Pack Download](https://vanillatweaks.net/share#7bbPXh)
 
-### [Modpack Download](https://claytonreardon.github.io/Minecraft-Site/CosmicServer.mrpack)
+### [Modpack Download](https://claytonreardon.github.io/Minecraft-Site/Cosmic+Clayton's+Cosmic+Modpack.mrpack)
 
 ### [Guide to MultiMC](https://claytonreardon.github.io/Minecraft-Site/MultiMCGuide.md)
 
