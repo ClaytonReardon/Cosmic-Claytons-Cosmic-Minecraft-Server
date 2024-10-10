@@ -135,7 +135,7 @@ I would reccomend setting your *Maximum Memory Allocation* 4-8GB lower than howe
 ### Installing Modpack in MultiMC Guide
 Almost there bitch
 
-0. Make sure you download the [modpack](https://claytonreardon.github.io/Minecraft-Site/CosmicClayton'sCosmicModpack.zip)
+0. Make sure you download the [modpack](https://claytonreardon.github.io/Cosmic-Claytons-Cosmic-Minecraft-Server/CosmicClayton'sCosmicModpack.zip)
 1. Once in MultiMC, click the *Add Instance* button in the top left
 
 ![addInstance](img/addInstance.png)
